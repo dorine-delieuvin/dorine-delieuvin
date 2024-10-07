@@ -2,7 +2,7 @@
 - I’m interested in manual/automation testing
 - I’m currently learning Pyhton, Pytest and Playywright
 
-- Check my Projects page to see what I'm working on
+- Check my Projects page to see what I'm working on: https://github.com/dorine-delieuvin?tab=projects
 
 <!---
 dorine-delieuvin/dorine-delieuvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

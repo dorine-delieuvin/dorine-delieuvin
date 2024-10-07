@@ -1,6 +1,6 @@
 - Hi, I’m @dorine-delieuvin
 - I’m interested in manual/automation testing
-- I’m currently learning Pyhton, Pytest and Playywright
+- I’m currently learning Python, Pytest and Playwright
 
 - Check my Projects page to see what I'm working on: https://github.com/dorine-delieuvin?tab=projects
 

@@ -1,8 +1,8 @@
 - Hi, I’m @dorine-delieuvin
 - I’m interested in manual/automation testing
-- I’m currently learning Pyhton 3 and Pytest
+- I’m currently learning Pyhton, Pytest and Playywright
 
-- Check my Projects page to see what I'm working on.
+- Check my Projects page to see what I'm working on
 
 <!---
 dorine-delieuvin/dorine-delieuvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
